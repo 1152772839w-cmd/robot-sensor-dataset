@@ -1,0 +1,26 @@
+{
+  "dataset_name": "robot_sensor_dataset",
+  "source": "datasetsmy_bluetooth_data.zip",
+  "num_rows": 1009833,
+  "num_files": 160,
+  "num_features": 9,
+  "feature_columns": [
+    "acc_x",
+    "acc_y",
+    "acc_z",
+    "gyro_x",
+    "gyro_y",
+    "gyro_z",
+    "angle_x",
+    "angle_y",
+    "angle_z"
+  ],
+  "files": [
+    "robot_sensor_data.npz",
+    "robot_sensor_data.parquet",
+    "robot_sensor_preview.csv",
+    "file_index.csv",
+    "label_info.json",
+    "metadata.json"
+  ]
+}
